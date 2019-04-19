@@ -1,6 +1,6 @@
 # Udemy_ML_C-MyownWork
 
-This is My own Work on the Udemy Machine Learning Course , i do drift away from the course lectures so the main body is like the one taught in the course but i add my own changes , improvs and explanations for educational purposes as i intend to use this as a refrence to study/copy from
+This is My own Work on the Udemy Machine Learning Course , i Sometimes drift away from the course lectures so the main body is like the one taught in the course but i add my own changes , improvs and explanations for educational purposes as i intend to use this as a refrence to study/copy from
 
 
 inside every file you will find the dataset used for that algorithm 
