@@ -7,7 +7,7 @@ import  seaborn as sns
 from sklearn.preprocessing import Imputer
 
 # change directory
-os.chdir('E:\\Programing\\UdemyML\\Machine Learning A-Z Template Folder\\Part 9 - Dimensionality Reduction\\Section 43 - Principal Component Analysis (PCA)')
+os.chdir('E:\\Programing\\UdemyML\\Machine Learning A-Z Template Folder\\Part 9 - Dimensionality Reduction\\Section 44 - Linear Discriminant Analysis (LDA)')
 df = pd.read_csv('Wine.csv')
 
 x = df.iloc[:,0:13].values
